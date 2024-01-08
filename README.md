@@ -9,7 +9,7 @@
 # Convert this variable into lowercase.
 
 # Print out an appropriate error message in case the first input was incorrect.
-#This will loop back to the start of the calculator. 
+# This will loop back to the start of the finance calculator.
 
 # Using an if-statement, for 'investment', we will ask the user for the 
 # following: the amount of money they are depositing ('deposit').
@@ -38,7 +38,8 @@
 # Print out a sentence saying how much the user will save after num_of_years.  
 
 # add an else-statement to print n error message if the input is invalid.
-#This will loop back to the simple/compound choice question.
+# This will loop back to the simple/compound choice question. 
+
 
 # Going back to the first if-statment, if the user chooses a home calculator
 # (bond), ask the user for the following:
